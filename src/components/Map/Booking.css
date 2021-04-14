@@ -1,0 +1,30 @@
+.booking-form{
+    background-color: rgb(204, 198, 198);
+    border: 1px solid rgb(233, 218, 9);
+    padding: 10px;
+    border-radius: 5px;
+    width: 50%;
+    margin: 50px 0px 0px 80px;
+    height: 300px !important;
+}
+.booking-form  .input-group{
+    margin: 10px 10px;
+}
+ .input{
+    width: 50%;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background: #F3F5FF;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+.booking-form .inputs{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+}
+.booking-form h3{
+    margin: 10px 0px;
+}

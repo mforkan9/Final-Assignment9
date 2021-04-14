@@ -1,0 +1,38 @@
+.detail-show{
+    border-radius: 15px;
+    background-color: lightgray;
+    margin-top: 15px;
+}
+.D-card{
+    width: 350px;
+    height: 150px;
+    border: 1px solid  rgb(226, 168, 8);
+    background-color: rgb(236, 188, 55);
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 2px lightgrey;
+}
+.F-card{
+    width: 350px;
+    height: 75px;
+    border: 1px solid  rgb(221, 219, 215);
+    background-color:white;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 2px lightgrey;
+}
+.d-img{
+    width: 100px;
+    height: 55px;
+}
+.icon-img{
+    height: 30%;
+    width: 30%;
+}
+.F-card h4{
+    font-weight: 700;
+    
+}
+.rate{
+    text-align: end;
+}
