@@ -10,7 +10,7 @@ const Header = () => {
     const  [loggedInUser,setLoggedInUser] = value;
 
     return (
-        <div>
+        <div className=''>
             <nav className="nav">
             <div class="container">
         <div class="logo">
